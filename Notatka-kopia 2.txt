@@ -1,2 +1,0 @@
-Tomasz notatka
-To jest zmiana na newFeature
